@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Actualmente trabajo en distintos proyectos como freelancer tanto de forma individual como grupal.  
+- 🔭 Actualmente trabajo en distintos proyectos como freelancer tanto de forma individual como colaborativa.  
 - 🌱 Recientemente estoy aprendiendo diversas herramientas de desarrollo Frontend, como Bootstrap, Javascript, Vue y otros, para poder integrarlos en distintos trabajos.
 - 👯 Busco colaborar en proyectos tanto en diseño gráfico como en programación Frontend.       
 - 💬 Pregúntame sobre: diseño gráfico, imprenta, merchandising y producción.
